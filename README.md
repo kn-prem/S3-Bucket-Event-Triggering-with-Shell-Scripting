@@ -18,7 +18,7 @@ STEPS TO BE FOLLOWED
 8. Delete all services before exiting.
 
 ![project_image](https://github.com/kn-prem/S3-Bucket-Event-Triggering-with-Shell-Scripting/assets/55278315/988c8296-a3fb-4f5d-bda0-d8a4348cc908)
-![Uploading project_image.png…]()
+
 
 
 
